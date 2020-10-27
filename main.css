@@ -102,6 +102,26 @@ img{
   top: 2rem;
   background-color: var(--first-color);
 }
+
+.preview{
+  display: flex;
+  padding:.8rem;
+  justify-content:space-around;
+
+}
+
+
+.preview #one:focus, .preview #one:hover, .preview #one:active { color: #F9AB33;
+    font-size:1.3em;
+    color: black;
+    border-bottom:2px solid gold;
+        }
+
+ .preview .two:focus, .preview .two:hover, .preview .two:active { color: #F9AB33;
+          font-size:1.3em;
+          color: black;
+          border-bottom:2px solid gold;}
+
 .section{
   padding-top: 3rem;
   padding-bottom: 2rem;
@@ -168,6 +188,7 @@ img{
 }
 .nav__logo{
   color: var(--second-color);
+  font-family:  'Lobster', cursive;;
 }
 .nav__toggle{
   color: var(--second-color);
