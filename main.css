@@ -6,13 +6,13 @@
   --font-semi: 600;
 }
 
-/*===== Colores =====*/
+/*===== Colors=====*/
 :root{
   --first-color: #4070F4;
   --second-color: #0E2431;
 }
 
-/*===== Fuente y tipografia =====*/
+
 :root{
   --body-font: 'Poppins', sans-serif;
   --big-font-size: 2rem;
@@ -27,7 +27,7 @@
   }
 }
 
-/*===== Margenes =====*/
+/*===== Margin =====*/
 :root{
   --mb-1: 0.5rem;
   --mb-2: 1rem;
@@ -323,14 +323,14 @@ img{
   width: 85%;
 }
 .skills__js{
-  width: 65%;
+  width: 30%;
 }
 .skills__Flask{
   width: 40%;
 }
 
 .skills__Php{
-  width:45%
+  width:20%
 }
 
 .skills__DM{
